@@ -37,13 +37,8 @@ Before diving in, ensure you have the following installed:
 - Python (>= 3.8)
 - PyTorch / TensorFlow
 - Jupyter Notebook
-- Other dependencies listed in [requirements.txt](requirements.txt)
 
-Install the dependencies:
 
-```bash
-pip install -r requirements.txt
-```
 
 ### Cloning the Repository
 
@@ -54,21 +49,6 @@ git clone https://github.com/yourusername/deep-learning-examples.git
 cd deep-learning-examples
 ```
 
----
-
-## 📂 Repository Structure
-
-```plaintext
-📦 deep-learning-examples
-├── 📁 examples         # Hands-on examples for specific tasks
-├── 📁 guides           # Step-by-step guides on key topics
-├── 📁 tutorials        # In-depth tutorials for beginners and advanced learners
-├── 📁 datasets         # Scripts to download and preprocess datasets
-├── 📁 models           # Pre-trained models and architectures
-├── 📁 utils            # Helper functions and utilities
-├── requirements.txt    # List of dependencies
-└── README.md           # This file
-```
 
 ---
 
