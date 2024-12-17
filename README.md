@@ -95,7 +95,7 @@ This repository is licensed under the MIT License. See the [LICENSE](LICENSE) fi
 For questions, suggestions, or feedback, feel free to open an issue or reach out:
 
 - GitHub Issues: [Submit here](https://github.com/yourusername/deep-learning-examples/issues)
-- Email: your.email@example.com
+
 
 ---
 
